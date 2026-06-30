@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0040/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0040_WYG_000-1a, image: WYG1037/WYG1037-0119a.png}
+body:
+  text: 談苑小說家類一雜事之屬提要臣等謹案談苑四卷舊本題宋孔平仲撰平仲有珩璜新論已著録是書多録當時瑣事而頗病叢雜趙與時賓退録嘗駁其記吕夷簡張士遜事謂以宰相押麻與當時體制不合疑為不知典故者所為必非孔氏真本今考其所載往往與他書相出入如梁灝八十二為狀元一條見於遁齊閒覽錢俶進寶𢃄一條王禹玉上元應制一條見於錢氏私志宰相早朝上殿一條見於王文正筆録上元燃燈一條詔敕用黃紙一條見于春明退朝録寇萊公守北門一條見于國老談苑其書或在平仲前或與平仲同時似亦托拾成編之一證至于王雱才辨傲狠新法之行雱實有力而稱之為不慧殊非事實至張士遜死入地獄等事尤誕幻無稽不可為訓與時所論未可謂之無因姑以宋人舊本存備參稽云爾乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:0a37a5b38efebef36e422618baca0069542e8a4005d1424884cd0db3a20075b0
+metadata:
+  title: 談苑
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:38:08.146508'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0040/KR3l0040_000.txt
+hash: sha256:e7baf34e14387cd46b5a5f17c10f0ba47ad15a9815c1c5cf8c07c1c3ae29ef93
